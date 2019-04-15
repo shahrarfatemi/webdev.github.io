@@ -1,0 +1,9 @@
+.btn-prim{
+	background-color: purple;
+	text-decoration-color: white;
+
+}
+
+.btn-prim:hover{
+	background-color: black;
+}
