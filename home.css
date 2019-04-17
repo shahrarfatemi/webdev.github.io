@@ -1,0 +1,49 @@
+.bBangladesh{
+  margin-top: 100px;
+}
+
+.sliderlogin{
+  margin-top: 100px;
+  margin-bottom: 400px;
+}
+
+.slider{
+  
+}
+
+.btn-primary{
+	background-color: #A9A9A9;
+	text-align: center;
+	border: 0px;
+	font-size: 15px; 
+	height: 30px;
+}
+
+
+
+.list {
+	color: black;	
+}
+
+
+.card-body{
+	background-color: #a59fb5;
+	opacity: 0.6;
+}
+ul{
+	list-style: cambodian;
+}
+/*
+.drop:hover{
+
+	background-color: #D3D3D3;
+	text-align: center;
+	display: block;
+}
+*/
+.where{
+	background-color: #D3D3D3;
+	background-opacity: 0.5;
+	/*font-color:white;*/
+	font-size: 13px;
+}
